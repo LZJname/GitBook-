@@ -1,0 +1,2 @@
+npm插件本地文件
+ C:\Users\用户名\AppData\Roaming\npm

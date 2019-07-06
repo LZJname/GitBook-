@@ -26,3 +26,10 @@ npm install -g gitbook-cli
 + gitbook 和gitbook-cli是两个软件；
 + gitbook-cli会将下载的gitbook的不同版本放到~/.gitbook中，可以通过`GITBOOK_DIR`环境变量来指定另外的文件夹。
 
+**3.gitbook版本查看**
+
+```
+gitbook --version
+```
+在进行版本查看的时候，他会自动安装一些东西，等一段时间才会出现版本号
+![](images/version.png)
